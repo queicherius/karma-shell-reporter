@@ -1,0 +1,26 @@
+{
+  "name": "karma-shell-reporter",
+  "version": "0.0.0",
+  "description": "Test reporter that runs a shell command after test completion (for Karma).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/queicherius/karma-shell-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "reporter"
+  ],
+  "author": "queicherius@gmail.com",
+  "dependencies": {
+    "exec-sh": "^0.2.0"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
