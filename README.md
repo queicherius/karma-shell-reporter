@@ -1,5 +1,7 @@
 # karma-shell-reporter
 
+[![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-%E2%9C%95-red.svg?style=flat-square)](http://unmaintained.tech/)
+
 Test reporter that runs a shell command after test completion (for Karma).
 
 ## Usage
