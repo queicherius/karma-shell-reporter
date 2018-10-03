@@ -1,6 +1,6 @@
 {
   "name": "karma-shell-reporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test reporter that runs a shell command after test completion (for Karma).",
   "main": "index.js",
   "scripts": {},
